@@ -109,6 +109,12 @@
         <mxCell id="vBQpwoV6zuL6MPrR1keN-31" value="arch/x86/boot/&lt;div&gt;bzimage&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="420" y="472" width="120" height="220" as="geometry" />
         </mxCell>
+        <mxCell id="vBQpwoV6zuL6MPrR1keN-35" value="second compile" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_availability_zone;strokeColor=#545B64;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#545B64;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="105" width="500" height="325" as="geometry" />
+        </mxCell>
+        <mxCell id="vBQpwoV6zuL6MPrR1keN-36" value="third compile" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_availability_zone;strokeColor=#545B64;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#545B64;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="507.5" width="350" height="242.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
