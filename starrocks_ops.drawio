@@ -1,9 +1,60 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="26.0.2">
   <diagram name="第 1 页" id="Kcx8zgPSbzQfWamkF4T0">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="a-j4pdcEx3I0wpK3mtqR-4" value="Admin Page" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="190" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a-j4pdcEx3I0wpK3mtqR-5" value="DBA Page" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="330" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a-j4pdcEx3I0wpK3mtqR-6" value="User Page" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="470" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a-j4pdcEx3I0wpK3mtqR-7" value="frontends" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#7D8998;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#5A6C86;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="440" width="450" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="a-j4pdcEx3I0wpK3mtqR-8" value="待实现" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="160" y="340" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="a-j4pdcEx3I0wpK3mtqR-9" value="已实现" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="160" y="370" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="a-j4pdcEx3I0wpK3mtqR-10" value="待调研" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="400" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="a-j4pdcEx3I0wpK3mtqR-14" value="backends" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#7D8998;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#5A6C86;dashed=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="600" width="450" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="a-j4pdcEx3I0wpK3mtqR-11" value="stargo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="a-j4pdcEx3I0wpK3mtqR-14">
+          <mxGeometry x="30" y="125" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="a-j4pdcEx3I0wpK3mtqR-12" value="ctrip tools(python)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="a-j4pdcEx3I0wpK3mtqR-14">
+          <mxGeometry x="130" y="125" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="a-j4pdcEx3I0wpK3mtqR-13" value="ansible" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="a-j4pdcEx3I0wpK3mtqR-14">
+          <mxGeometry x="240" y="125" width="86" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="a-j4pdcEx3I0wpK3mtqR-23" value="REST API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="a-j4pdcEx3I0wpK3mtqR-14">
+          <mxGeometry x="30" y="55" width="410" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="a-j4pdcEx3I0wpK3mtqR-26" value="others(k8s?)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="a-j4pdcEx3I0wpK3mtqR-14">
+          <mxGeometry x="340" y="125" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="a-j4pdcEx3I0wpK3mtqR-22" value="clusters" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#7D8998;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#5A6C86;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="830" width="450" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="a-j4pdcEx3I0wpK3mtqR-17" value="captain/k8s cluster" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="a-j4pdcEx3I0wpK3mtqR-22">
+          <mxGeometry x="310" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a-j4pdcEx3I0wpK3mtqR-16" value="SGP cluster" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="a-j4pdcEx3I0wpK3mtqR-22">
+          <mxGeometry x="170" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a-j4pdcEx3I0wpK3mtqR-15" value="SVR/VMS cluster" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="a-j4pdcEx3I0wpK3mtqR-22">
+          <mxGeometry x="20" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
